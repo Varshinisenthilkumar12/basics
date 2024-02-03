@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paragraph Example</title>
+</head>
+<body>
+
+    <p>This is a simple paragraph in HTML. You can include text, links, images, and other content within a paragraph tag.</p>
+
+    <p>Another paragraph can be added for additional content.</p>
+
+</body>
+</html>
